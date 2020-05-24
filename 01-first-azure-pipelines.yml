@@ -11,10 +11,9 @@ pool:
 
 steps:
 - script: echo Hello, world---hope you are doing 
-great!
+great!DONE WITH THE LOCKDOWN NOW.....LETS MOVE ONNNN
 
-DONE WITH THE LOCKDOWN NOW.....LETS MOVE ONNNN
-  displayName: 'Run a one-line script'
+- displayName: 'Run a one-line script'
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
