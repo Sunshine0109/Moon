@@ -10,7 +10,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- script: echo Hello, world---hope you are doing 
+- script: echo Hello, world---hope you are doing ---
           great!DONE WITH THE LOCKDOWN NOW.....LETS MOVE ONNNN
 
 - displayName: 'Run a one-line script'
